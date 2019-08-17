@@ -7,7 +7,7 @@ Store is a sample of e-commerce site
 ## Features/highlights
 
 - a sample e-commerce shopping site
-- pattern for a real-life shopping cart and store checkout flow
+- pattern for a real-life shopping cart 
 
 ## Used technologies
 
